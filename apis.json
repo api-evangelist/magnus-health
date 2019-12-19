@@ -1,0 +1,60 @@
+{
+    "name": "Magnus Health",
+    "description": "Magnus Health is an online software solution for collecting, managing, and securely storing student health information for K-12 schools and colleges.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1894-magnus-health.jpg",
+    "tags": [
+        "api provider",
+        "education stac",
+        "have api",
+        "healthcare",
+        "students",
+        "whois"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/magnus-health\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Magnus Health",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1894-magnus-health.jpg",
+            "humanURL": "http:\/\/magnushealth.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/magnus-health-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/magnus-health-portal"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/magnushealth.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "helpdesk@magnushealth.com"
+        },
+        {
+            "type": "Email",
+            "url": "service@magnushealth.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/magnushealth"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/magnushealth.com"
+        }
+    ]
+}
